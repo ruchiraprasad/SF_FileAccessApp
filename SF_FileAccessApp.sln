@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "SF_FileAccessApp", "SF_FileAccessApp\SF_FileAccessApp.sfproj", "{3FBBBA52-4D96-45B2-B607-0C2B99EBF847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAccessAPI", "FileAccessAPI\FileAccessAPI.csproj", "{50AB3D09-6415-4DAD-99DE-D4A771142D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FBBBA52-4D96-45B2-B607-0C2B99EBF847}.Debug|x64.ActiveCfg = Debug|x64
+		{3FBBBA52-4D96-45B2-B607-0C2B99EBF847}.Debug|x64.Build.0 = Debug|x64
+		{3FBBBA52-4D96-45B2-B607-0C2B99EBF847}.Debug|x64.Deploy.0 = Debug|x64
+		{3FBBBA52-4D96-45B2-B607-0C2B99EBF847}.Release|x64.ActiveCfg = Release|x64
+		{3FBBBA52-4D96-45B2-B607-0C2B99EBF847}.Release|x64.Build.0 = Release|x64
+		{3FBBBA52-4D96-45B2-B607-0C2B99EBF847}.Release|x64.Deploy.0 = Release|x64
+		{50AB3D09-6415-4DAD-99DE-D4A771142D15}.Debug|x64.ActiveCfg = Debug|x64
+		{50AB3D09-6415-4DAD-99DE-D4A771142D15}.Debug|x64.Build.0 = Debug|x64
+		{50AB3D09-6415-4DAD-99DE-D4A771142D15}.Release|x64.ActiveCfg = Release|x64
+		{50AB3D09-6415-4DAD-99DE-D4A771142D15}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197E52E5-7A2E-4A89-92B1-0B68418286AD}
+	EndGlobalSection
+EndGlobal
